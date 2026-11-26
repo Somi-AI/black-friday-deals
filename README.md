@@ -16,7 +16,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 
 ## Contents
 
-- [Marketing](#marketing) (7)
+- [Marketing](#marketing) (8)
 - [Creative](#creative) (8)
 - [Websites](#websites) (2)
 - [Productivity](#productivity) (4)
@@ -33,6 +33,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
 | [**BacklinkGenie**](https://backlinkgenie.com/black-friday/?utm_source=somi&utm_medium=deal&utm_campaign=bfcm2026) | AI link-building agent that finds posts where your product belongs, pitches each editor from a managed mailbox, follows up and checks won links stay live. | 30% off monthly or 50% off yearly, on every billing cycle while subscribed, applied at checkout (codes: `BFCM30` / `BFCM50`) | 24 Nov 2026 – 31 Dec 2026 |
 | [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
+| [**Nuelink**](https://nuelink.com/?utm_source=somi&utm_medium=referral&utm_campaign=bfcm_2026) | Schedules and auto-publishes posts to 12 social platforms from a calendar, automations from your store or blog, or ChatGPT and Claude. | 6 months free on yearly plans ($144 a year instead of $192), or 25% off the first 3 monthly payments. Applied automatically (code: `BFCM26`). | 10 Nov 2026 – 30 Nov 2026 |
 
 ## Creative
 
