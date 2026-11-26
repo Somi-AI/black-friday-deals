@@ -53,6 +53,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | --- | --- | --- | --- |
 | [**Hostinger**](https://www.hostinger.com/) | Web hosting, domains and an AI website builder. | Up to 85% off hosting plans | Not published |
 | [**Elementor**](https://be.elementor.com/visit/?bta=230287&brand=elementor) | WordPress website builder with AI-assisted design and hosting. | Up to 40% off new purchases and upgrades | 17 Nov 2026 – 1 Dec 2026 |
+| [**Cloudways AI Website Builder**](https://www.cloudways.com/en/ai-website-builder.php) | Builds a complete WordPress or WooCommerce site from one prompt, then lets you edit it with AI, a visual editor or code, and host it on Cloudways. | 80% off the first 2 months on the AI Website Builder and Cloudways hosting: $1.60 per site a month instead of $7.99 for 1–5 sites, down to $1.20 at 21+ sites, then $7.99 per site plus hosting (code: `BFCM802`) | Until 5 Dec 2026 |
 
 ## Productivity
 
