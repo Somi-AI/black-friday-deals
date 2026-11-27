@@ -152,6 +152,7 @@ Submitted by their makers to open community deal lists; not re-checked by Somi. 
 | [**EzyStudio**](https://ezystudio.com/pricing) | AI website and app builder. | 10% off every payment, for good, on every regular plan (monthly, yearly or lifetime) (code: `EARLYBF26`) | 16 Nov 2026 – 22 Nov 2026 |
 | [**HiAPI**](https://hiapi.ai/en/promotions/black-friday-2026) | Pay-as-you-go API for image, video, audio and text models — GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok and Qwen behind one… | Up to 10% extra credit on top-ups and up to 20% back on image, video and audio spending | 24 Nov 2026 – 1 Dec 2026 |
 | [**Read My Dream**](https://readmydream.com/plus) | Dream journal with AI readings. | 10% off the first year or first month of Plus | 20 Nov 2026 – 1 Dec 2026 |
+| [**Context.dev**](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | 30% off new purchases of paid plans for one year; automatically applied, no code needed | 27 Nov 2026 – 1 Dec 2026 |
 
 ## Submit a deal
 
