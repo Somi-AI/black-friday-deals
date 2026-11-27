@@ -48,6 +48,7 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
 | [**A1**](https://www.a1.gallery/pricing?utm_source=somi&utm_medium=directory&utm_campaign=bf2026) | Gallery of real, live websites for design inspiration, with an MCP server so AI coding tools can pull real sections, fonts and colours. | 33% off A1 Pro yearly: $48 a year instead of $72, kept while you stay subscribed. No code needed. | 19 Nov 2026 – 30 Nov 2026 |
 | [**FireCut**](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve. | 50% off new annual plans (Max $29.50/mo vs $59, Pro $17/mo vs $34, billed yearly), no code needed | 25 Nov 2026 – 30 Nov 2026 |
+| [**Shot Video**](https://shot.video/black-friday) | Multi-angle AI video recorder and auto-editor: record laptop camera, screen and audio, add any phone via QR code with no app install, and let AI auto-edit. | 79% off Creator yearly ($190 → $39/yr). No code needed. | 20 Nov 2026 – 1 Dec 2026 |
 
 ## Websites
 
