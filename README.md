@@ -20,6 +20,7 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 - [Creative](#creative) (9)
 - [Websites](#websites) (3)
 - [Productivity](#productivity) (6)
+- [Developer tools](#developer-tools) (1)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -71,6 +72,12 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 | [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
 | [**Switchy**](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14 or later. | 50% off: $4.99 → $2.49 one-time purchase, up to 3 Macs, future updates included (code: `BLACKFRIDAY50`, pre-filled by the Buy button) | 23 Nov 2026 – 1 Dec 2026 |
 | [**Whizi**](https://whizi.io/pricing/?utm_source=somi&utm_medium=deal-list&utm_campaign=bf2026) | One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research. Web, iOS and Android. | 30% off the first year of any yearly plan: Starter $131.99 → $92.39, Pro $239.99 → $167.99, Powerhouse $419.99 → $293.99 (automatic at checkout, no code) | 24 Nov 2026 – 24 Dec 2026 |
+
+## Developer tools
+
+| Name | Description | Deal | Validity |
+| --- | --- | --- | --- |
+| [**Bordfeed**](https://bordfeed.com/black-friday?utm_source=somi&utm_medium=github&utm_campaign=bfcm2026) | Job data API for agents and builders: 500,000+ live jobs from company hiring pages, refreshed every night, by REST API, webhooks, email digests or MCP for ChatGPT and Claude. | 50% off the first 3 months of Pro, Max or Ultra: Pro $79 → $39.50/mo, Max $299 → $149.50/mo, Ultra $999 → $499.50/mo. Yearly plans: 50% off the first year. New subscriptions only (code: `BFCM50`) | 27 Nov 2026 – 4 Dec 2026 |
 
 ## Community-listed AI tools
 
