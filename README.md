@@ -19,7 +19,7 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 - [Marketing](#marketing) (12)
 - [Creative](#creative) (9)
 - [Websites](#websites) (3)
-- [Productivity](#productivity) (6)
+- [Productivity](#productivity) (7)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -71,6 +71,7 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 | [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
 | [**Switchy**](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14 or later. | 50% off: $4.99 → $2.49 one-time purchase, up to 3 Macs, future updates included (code: `BLACKFRIDAY50`, pre-filled by the Buy button) | 23 Nov 2026 – 1 Dec 2026 |
 | [**Whizi**](https://whizi.io/pricing/?utm_source=somi&utm_medium=deal-list&utm_campaign=bf2026) | One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research. Web, iOS and Android. | 30% off the first year of any yearly plan: Starter $131.99 → $92.39, Pro $239.99 → $167.99, Powerhouse $419.99 → $293.99 (automatic at checkout, no code) | 24 Nov 2026 – 24 Dec 2026 |
+| [**VibeShield Pro**](https://shipbastion.com/) | Pre-launch security scanner for Cursor, Lovable, Bolt, v0, Next.js and Supabase apps: checks exposed client JS secrets, PostgREST RLS tables, public storage buckets, CSP/HSTS headers, and .env/.git leaks. | 78% off Lifetime Pro ($2 one-time, reg. $9) and 83% off 3-in-1 Developer Suite ($5 one-time, reg. $29), auto-applied at checkout. No code needed. | 23 Nov 2026 – 2 Dec 2026 |
 
 ## Community-listed AI tools
 
