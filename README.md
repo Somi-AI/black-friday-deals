@@ -4,9 +4,9 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-95 deals · last checked 26 November 2026 · [add yours](#submit-a-deal)
+104 deals · last checked 27 November 2026 · [add yours](#submit-a-deal)
 
-The first 21 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
+The first 30 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
 ## Sponsored
 
@@ -16,10 +16,10 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 
 ## Contents
 
-- [Marketing](#marketing) (8)
-- [Creative](#creative) (8)
-- [Websites](#websites) (2)
-- [Productivity](#productivity) (4)
+- [Marketing](#marketing) (12)
+- [Creative](#creative) (9)
+- [Websites](#websites) (3)
+- [Productivity](#productivity) (6)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -33,13 +33,11 @@ The first 21 deals below were checked by Somi against the vendor's own pricing o
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
 | [**BacklinkGenie**](https://backlinkgenie.com/black-friday/?utm_source=somi&utm_medium=deal&utm_campaign=bfcm2026) | AI link-building agent that finds posts where your product belongs, pitches each editor from a managed mailbox, follows up and checks won links stay live. | 30% off monthly or 50% off yearly, on every billing cycle while subscribed, applied at checkout (codes: `BFCM30` / `BFCM50`) | 24 Nov 2026 – 31 Dec 2026 |
 | [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
-| [**Nuelink**](https://nuelink.com/?utm_source=somi&utm_medium=referral&utm_campaign=bfcm_2026) | Schedules and auto-publishes posts to 12 social platforms from a calendar, automations from your store or blog, or ChatGPT and Claude. | 6 months free on yearly plans ($144 a year instead of $192), or 25% off the first 3 monthly payments. Applied automatically (code: `BFCM26`). | 10 Nov 2026 – 30 Nov 2026 |
+| [**Nuelink**](https://nuelink.com/black-friday?utm_source=somi&utm_medium=referral&utm_campaign=bfcm_2026) | Schedules and auto-publishes posts to 12 social platforms from a calendar, automations from your store or blog, or ChatGPT and Claude. | 6 months free on yearly plans ($144 a year instead of $192), or 25% off the first 3 monthly payments. Applied automatically (code: `BFCM26`). | 10 Nov 2026 – 30 Nov 2026 |
 | [**WebinarFlow**](https://webinarflow.studio/black-friday) | Automated on-demand product demo webinars with real-time AI Q&A and instant live video takeover from your phone. | 83% off your first year on Growth ($159, was $950) and Scale ($399, was $2,390) yearly plans. First 100 new customers. No code needed. | 20 Nov 2026 – 1 Dec 2026 |
 | [**SaaS Toolkit**](https://saastoolkit.ai/black-friday?utm_source=somi&utm_medium=deal-directory&utm_campaign=bf2026) | One place to take people from their first visit to paying customer: AI chat, nurture emails and instant team alerts. | 83% off first year: Growth $59 (normally $348) or Business $99 (normally $588) (code: `BF2026`) | 20 Nov 2026 – 1 Dec 2026 |
-| [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-
-| [**PageTest.AI**](https://pagetest.ai/black-friday?utm_source=somi-ai-bf&utm_medium=deal-directory&utm_campaign=bf2026) | AI finds and A/B tests your best headline, CTA and page copy, so the traffic you already have turns into more signups and sales. | 83% off first year (code: `BF2026`): Starter $3,588 → $599, Growth $5,988 → $999. New customers, first 100 buyers. | 20 Nov 2026 – 1 Dec 2026 |applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
-| [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-
-| [**Atelier Social**](https://ateliersocial.io/black-friday) | AI-first social media studio for multi-brand and agency teams. Write once, AI rewrites per platform, with tag-based routing across 7 platforms and an MCP server. | 83% off your first year (Starter $158/yr from $948, Agency $458/yr from $2,748, Scale $898/yr from $5,388), plus a 30-day free trial. No code needed. | Until 31 Dec 2026 |applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
+| [**PageTest.AI**](https://pagetest.ai/black-friday?utm_source=somi-ai-bf&utm_medium=deal-directory&utm_campaign=bf2026) | AI finds and A/B tests your best headline, CTA and page copy, so the traffic you already have turns into more signups and sales. | 83% off first year (code: `BF2026`): Starter $3,588 → $599, Growth $5,988 → $999. New customers, first 100 buyers. | 20 Nov 2026 – 1 Dec 2026 |
+| [**Atelier Social**](https://ateliersocial.io/black-friday) | AI-first social media studio for multi-brand and agency teams. Write once, AI rewrites per platform, with tag-based routing across 7 platforms and an MCP server. | 83% off your first year (Starter $158/yr from $948, Agency $458/yr from $2,748, Scale $898/yr from $5,388), plus a 30-day free trial. No code needed. | Until 31 Dec 2026 |
 
 ## Creative
 
