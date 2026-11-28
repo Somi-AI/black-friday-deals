@@ -4,9 +4,9 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-104 deals · last checked 27 November 2026 · [add yours](#submit-a-deal)
+111 deals · last checked 28 November 2026 · [add yours](#submit-a-deal)
 
-The first 30 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
+The first 38 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
 ## Sponsored
 
@@ -16,11 +16,12 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 
 ## Contents
 
-- [Marketing](#marketing) (12)
+- [Marketing](#marketing) (13)
 - [Creative](#creative) (9)
 - [Websites](#websites) (3)
-- [Productivity](#productivity) (6)
-- [Community-listed AI tools](#community-listed-ai-tools) (74)
+- [Productivity](#productivity) (9)
+- [Developer tools](#developer-tools) (4)
+- [Community-listed AI tools](#community-listed-ai-tools) (73)
 
 ## Marketing
 
@@ -38,6 +39,7 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 | [**SaaS Toolkit**](https://saastoolkit.ai/black-friday?utm_source=somi&utm_medium=deal-directory&utm_campaign=bf2026) | One place to take people from their first visit to paying customer: AI chat, nurture emails and instant team alerts. | 83% off first year: Growth $59 (normally $348) or Business $99 (normally $588) (code: `BF2026`) | 20 Nov 2026 – 1 Dec 2026 |
 | [**PageTest.AI**](https://pagetest.ai/black-friday?utm_source=somi-ai-bf&utm_medium=deal-directory&utm_campaign=bf2026) | AI finds and A/B tests your best headline, CTA and page copy, so the traffic you already have turns into more signups and sales. | 83% off first year (code: `BF2026`): Starter $3,588 → $599, Growth $5,988 → $999. New customers, first 100 buyers. | 20 Nov 2026 – 1 Dec 2026 |
 | [**Atelier Social**](https://ateliersocial.io/black-friday) | AI-first social media studio for multi-brand and agency teams. Write once, AI rewrites per platform, with tag-based routing across 7 platforms and an MCP server. | 83% off your first year (Starter $158/yr from $948, Agency $458/yr from $2,748, Scale $898/yr from $5,388), plus a 30-day free trial. No code needed. | Until 31 Dec 2026 |
+| [**Notra**](https://www.usenotra.com/pricing) | Tracks whether ChatGPT, Claude, Gemini, Copilot and Google AI recommend your brand, and writes content that helps you get cited. | 25% off every paid plan for the first 6 months on monthly billing: Starter $75 instead of $100 a month. New customers only. No code needed. | 27 Nov 2026 – 2 Dec 2026 |
 
 ## Creative
 
@@ -71,6 +73,18 @@ The first 30 deals below were checked by Somi against the vendor's own pricing o
 | [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
 | [**Switchy**](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14 or later. | 50% off: $4.99 → $2.49 one-time purchase, up to 3 Macs, future updates included (code: `BLACKFRIDAY50`, pre-filled by the Buy button) | 23 Nov 2026 – 1 Dec 2026 |
 | [**Whizi**](https://whizi.io/pricing/?utm_source=somi&utm_medium=deal-list&utm_campaign=bf2026) | One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research. Web, iOS and Android. | 30% off the first year of any yearly plan: Starter $131.99 → $92.39, Pro $239.99 → $167.99, Powerhouse $419.99 → $293.99 (automatic at checkout, no code) | 24 Nov 2026 – 24 Dec 2026 |
+| [**AGNT**](https://agnt.gg/pricing) | Desktop AI agent platform for building agents and workflows that run on your computer or a dedicated cloud instance. Windows, macOS and Linux. | 40% off the first year of yearly plans: Pro $290 → $174, Team $990 → $594 (code: `BLACKFRIDAY`). Renews at the regular yearly price. | 18 Nov 2026 – 30 Nov 2026 |
+| [**Vibe Island**](https://vibeisland.app/) | Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests, answer questions, or jump back to the terminal tab. | 40% off, one-time: 1 Mac $11.99 (was $19.99), 2 Macs $21.99, 3 Macs $31.99. Applied at checkout, no code. | 25 Nov 2026 – 1 Dec 2026 |
+| [**RewriteBar**](https://rewritebar.com/black-friday) | AI writing assistant in the Mac menu bar that fixes grammar, rewrites and translates text in any app, using your own API keys or local models. | 50% off one-time licenses: Standard $29 → $14.50, Pro $59 → $29.50, auto-applied at checkout (code: `BF2026`). Extra devices and the first year of Gateway are half price too. | 2 Nov 2026 – 3 Dec 2026 |
+
+## Developer tools
+
+| Name | Description | Deal | Validity |
+| --- | --- | --- | --- |
+| [**VibeShield**](https://shipbastion.com/) | Pre-launch security scanner for Cursor, Lovable, Bolt, v0, Next.js and Supabase apps. Checks leaked secrets, open database tables and missing security headers. | 78% off Lifetime Pro ($2 one-time, was $9) and 83% off the 3-app suite ($5 one-time, was $29). Applied at checkout, no code. | 23 Nov 2026 – 2 Dec 2026 |
+| [**Bordfeed**](https://bordfeed.com/black-friday) | Job data API for agents and builders: 500,000+ live jobs from company hiring pages, by REST API, webhooks, email or MCP. | 50% off the first 3 months of Pro, Max or Ultra (Pro $79 → $39.50, Max $299 → $149.50, Ultra $999 → $499.50). Yearly plans: 50% off the first year. New subscriptions only (code: `BFCM50`) | 27 Nov 2026 – 4 Dec 2026 |
+| [**Context.dev**](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | 30% off any paid plan for one year: Developer $20 → $14 a month, Pro $90 → $63. New purchases, applied automatically, no code. | 27 Nov 2026 – 1 Dec 2026 |
+| [**APXY**](https://apxy.dev/) | Local HTTP debugging proxy with a CLI and MCP server, so coding agents can read the requests their code sends, then mock, replay and diff them. macOS and Linux. | 30% off APXY Pro: $99 → $69.30 one-time for 3 devices (code: `APXY2026`). No end date published. | Limited time |
 
 ## Community-listed AI tools
 
@@ -94,7 +108,6 @@ Submitted by their makers to open community deal lists; not re-checked by Somi. 
 | [**CVder**](https://cvder.app/pricing) | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score, writes the cover letter and recruiter… | 50% off your first payment on any Pro plan: monthly €7, annual €42 (code: `BF2026`) | 27 Nov 2026 – 1 Dec 2026 |
 | [**DuoTyping**](https://duotyping.com/pricing) | Underlines grammar, spelling and tone mistakes as you type in any app, with no daily limit on checks. | 50% off the first payment of Pro (code: `BFCM2026`) | 13 Nov 2026 – 13 Dec 2026 |
 | [**PromptClaw**](https://promptclaw.fyi/) | Save, organize, and reuse AI prompts locally on Android and share them with your PC. | 50% off Lifetime | 20 Nov 2026 – 1 Dec 2026 |
-| [**RewriteBar**](https://rewritebar.com/) | Menu-bar AI writing assistant for macOS that fixes grammar, adjusts tone, translates, and rewrites text in any app. | 50% off (code: `BF2026`) | 2 Nov 2026 – 3 Dec 2026 |
 | [**Sabi**](https://meetsabi.com/pages/blackfriday) | AI employee for small business owners that you text like a person. | 50% off 6 months of Sabi Pro: $995 → $495 | 20 Nov 2026 – 30 Nov 2026 |
 | [**Seedance AI Video Generator**](https://www.seeddance.io/pricing) | AI video and image generator with Seedance 2.5, Kling, Veo, Hailuo, Seedream and GPT Image in one workspace. | 50% off the Pro plan with annual billing | Not published |
 | [**Skillry**](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt. | 50% off Pro + Founding Lifetime $169 | 19 Nov 2026 – 30 Nov 2026 |
